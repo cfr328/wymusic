@@ -1,0 +1,48 @@
+.top {
+  width: 100%;
+  height: 50px;
+  background: rgba(0, 0, 0, 0.8);
+  line-height: 50px;
+  text-align: center;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 10px;
+}
+
+.top em {
+  width: .4rem;
+  height: .4rem;
+  display: block;
+  background: url("../../assets/icon.png") no-repeat 0 0/100%;
+  vertical-align: middle;
+}
+
+.top .span {
+  background: url("../../assets/audio.png") no-repeat 0 0/100%;
+}
+
+.top h4 span {
+  color: #fff;
+  margin-top: 10px;
+}
+
+.head {
+  width: 100%;
+  height: 50px;
+  background: rgba(0, 0, 0, 0.8);
+  position: relative;
+}
+
+.head p {
+  width: 100%;
+  height: 50px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.head p a {
+  font-size: .32rem;
+  color: #eee;
+}
