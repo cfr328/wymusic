@@ -54,10 +54,10 @@
 }
 .list{
     width: 100%;
-    padding-left: 10px;
     h3{
         font-size: .38rem;
         font-weight: 600;
+        padding-left: 10px;
     }
     .pics{
         width: 100%;
@@ -65,7 +65,7 @@
         flex-wrap: wrap;
         justify-content: space-around;
         dl{
-            width: 30%;
+            width: 31%;
             dt{
                 img{
                     width: 100%;

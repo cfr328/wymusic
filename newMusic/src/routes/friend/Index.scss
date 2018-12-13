@@ -19,9 +19,16 @@
       background: url('../../assets/audio.png') no-repeat 0 0/100%;
     }
     h4{
+        border-radius: 16px;
+        height: 30px;
+        width: 120px;
+        line-height: 30px;
+        border: 1px solid #fff;
+        margin-top: 10px;
         span{
             color: #fff;
-            margin-top: 10px;
+            margin: 0 10px;
+            display: inline-block;
         }
     }
 }

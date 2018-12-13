@@ -22,9 +22,19 @@
   background: url("../../assets/audio.png") no-repeat 0 0/100%;
 }
 
+.top h4 {
+  border-radius: 16px;
+  height: 30px;
+  width: 120px;
+  line-height: 30px;
+  border: 1px solid #fff;
+  margin-top: 10px;
+}
+
 .top h4 span {
   color: #fff;
-  margin-top: 10px;
+  margin: 0 10px;
+  display: inline-block;
 }
 
 .head {
